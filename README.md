@@ -19,4 +19,4 @@ we are using TensorFlow for: **image classifier using convolutional neural netwo
 
 **Predict**
 
-reusing the generated model to predict the categories of all unclassified products.
+reusing the generated model to predict the categories of all unclassified products
