@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73acc654-00f7-4998-8f94-783e334580fa" name="Default" comment="" />
+    <list default="true" id="73acc654-00f7-4998-8f94-783e334580fa" name="Default" comment="ited">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,6 +21,9 @@
               <caret line="185" column="47" lean-forward="false" selection-start-line="185" selection-start-column="38" selection-end-line="185" selection-end-column="47" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
+                <marker date="1506637665949" expanded="true" signature="2914:3837" ph="..." />
+                <marker date="1506637665949" expanded="true" signature="3670:3798" ph="..." />
+                <marker date="1506637665949" expanded="true" signature="4311:7527" ph="..." />
               </folding>
             </state>
           </provider>
@@ -29,7 +34,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="378">
-                <caret line="21" column="83" lean-forward="false" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+                <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -51,6 +56,7 @@
         <option value="Youssef ASKRI &lt;ysf.askri@gmail.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -151,18 +157,31 @@
       <option name="project" value="LOCAL" />
       <updated>1506637359206</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ited">
+      <created>1506637617632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1506637617632</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ited">
+      <created>1506637947665</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1506637947665</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -191,7 +210,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="it" />
     <MESSAGE value="ite" />
-    <option name="LAST_COMMIT_MESSAGE" value="ite" />
+    <MESSAGE value="ited" />
+    <option name="LAST_COMMIT_MESSAGE" value="ited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -204,6 +224,9 @@
           <caret line="185" column="47" lean-forward="false" selection-start-line="185" selection-start-column="38" selection-end-line="185" selection-end-column="47" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
+            <marker date="1506637665949" expanded="true" signature="2914:3837" ph="..." />
+            <marker date="1506637665949" expanded="true" signature="3670:3798" ph="..." />
+            <marker date="1506637665949" expanded="true" signature="4311:7527" ph="..." />
           </folding>
         </state>
       </provider>
@@ -212,7 +235,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="378">
-            <caret line="21" column="83" lean-forward="false" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+            <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
             <folding />
           </first_editor>
           <second_editor />
